@@ -9,7 +9,7 @@
 - <b>Active Directory</b>
   - [Account Unlock, Password Reset](https://github.com/Cruzzy007/azure-network-protocol.git)
 - <b>Certifications</b>
-  - [CompTia]
+  - [CompTia](https://github.com/Cruzzy007/CompTia-.git)
 
 <h2>🤳Connect with me:</h2>
 
