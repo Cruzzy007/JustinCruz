@@ -8,6 +8,8 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Cruzzy007/Ticket-lifecycle.git)
 - <b>Active Directory</b>
   - [Account Unlock, Password Reset](https://github.com/Cruzzy007/azure-network-protocol.git)
+- <b>Certifications</b>
+  - [CompTia]
 
 <h2>🤳Connect with me:</h2>
 
