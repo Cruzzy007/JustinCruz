@@ -6,9 +6,8 @@
   - [osTicket: Prerequisites and Installation](https://github.com/Cruzzy007/osTicket-prereqs.git)
   - [osTicket: Post-Installation Configuration](https://github.com/Cruzzy007/post-install-config.git)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Cruzzy007/Ticket-lifecycle.git)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Cruzzy007/configure-ad.git)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Cruzzy007/azure-network-protocol.git)
+- <b>Active Directory</b>
+  - [Account Unlock, Password Reset](https://github.com/Cruzzy007/azure-network-protocol.git)
 
 <h2>🤳Connect with me:</h2>
 
